@@ -8,7 +8,7 @@ Simple CRUD system based on Codeigniter // Простая система учё�
 - русский интерфейс управления//ведения лога на русском языке
 - phpstorm.php содержит синтаксис для удобства работы с Codeigniter
 
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+[screenshot of sample](http://forum.norma4.net.ua/photoplog/images/9110/large/1_8b9b0fc6-bd98-4452-9218-7d0660771a70.png)
 
 > За основу взят фреймворка  [Codeigniter версии 4](https://codeigniter.com/)
   также в качестве приемлемой визуальной составляющей использован  [Bootstrap 4](http://getbootstrap.com/) и для удобства сортировки использован [DataTables ](https://datatables.net/).
